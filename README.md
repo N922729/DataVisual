@@ -5,21 +5,15 @@
 
 -[Project Overview](#Project-Overview)
 
--[Data Source](#Data-Source)
+ -[Data Source](#Data-Source)
+ 
+ -[Results/Findings](#Results-Findings)
+ 
+ -[Recommendations](#recommendations) 
 
--[Results/Findings](#Results-Findings)
-
--[Recommendations](#recommendations)
-
-
-
-
-
-
-
-### Project Overview
-
-The objective of this data analysis project is to provide a comprehensive breakdown of the professional survey data.
+---   
+ ### Project Overview
+ The objective of this data analysis project is to provide a comprehensive breakdown of the professional survey data.
  By meticulously analyzing various aspects of the survey data, the aim is to identify key insights that will inform decision-making processes. 
 
 The analysis will focus on a range of factors, including demographic data, survey responses, average salary, level of satisfaction, and any trends that emerge through the data. 
@@ -44,7 +38,7 @@ In the initial data preparation phase, I performed the following tasks:
 - Data cleaning & formatting
 
 
-### Explanatory Data Analysis
+### Exploratory Data Analysis
 EDA involved exploring the data professional responses to the key questions, such as:
 - What is the overall level of satisfaction?
 - Total number of survey takers
@@ -57,6 +51,7 @@ Includes some interesting DAX functions
 
 ### Results/Findings
 The analysis results are summarized as follows:
+
 The study involved around 630 individuals from different regions worldwide, with an average age of 30. The participants were data professionals
  who were asked to share their feedback on the programming language, life/work balance, ease of breaking into the data field, and so on. 
 The study aimed to assess their perception of the language in terms of ease of use and overall appeal. 
