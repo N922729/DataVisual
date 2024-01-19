@@ -70,6 +70,7 @@ EDA involved exploring the  KPIs requirements and calculating the following metr
 
 ### Results/Findings
 The analysis results are summarized as follows:
+
 The findings from the analysis reveal that orders exhibit a higher frequency during the evenings weekends and the first half of the year. 
 The Classic category holds the highest contribution towards sales and total orders, followed by the Supreme, Veggie, and Chicken categories occupying the second, third, and fourth positions respectively.
 
