@@ -1,7 +1,7 @@
 
 
 # Pizza Sale Analysis Report
-	SQL File
+	SQL File: https://github.com/NooriaK/SQL
 
 ## Table of Contents
 
