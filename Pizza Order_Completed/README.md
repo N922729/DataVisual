@@ -1,7 +1,7 @@
 
 
 # Pizza Sale Analysis Report
-	SQL File: -https://github.com/NooriaK/SQL/
+	SQL File: -https://github.com/NooriaK/SQL/ -https://github.com/AlexTheAnalyst/Power-BI
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@
 
 
 
---
+---
 
 
 ### Project Overview
