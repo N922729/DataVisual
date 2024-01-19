@@ -2,8 +2,8 @@
 
 # Pizza Sale Analysis Report
 	SQL File: -https://github.com/NooriaK/SQL/ -https://github.com/AlexTheAnalyst/Power-BI
- Credit is attributed to the Alex the Analyst YouTube channel for the collection and curation of the data.
--https://github.com/AlexTheAnalyst/Power-BI
+ 
+-https://github.com//NooriaK/SQL
 
 ## Table of Contents
 
