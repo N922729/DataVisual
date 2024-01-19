@@ -53,14 +53,14 @@ In the initial data preparation phase, I performed the following tasks:
 - Data cleaning & formatting
 
 
-### Explanatory Data Analysis
+### Exploratory Data Analysis
 EDA involved exploring the  KPIs requirements and calculating the following metrics:
 
-- Total Revenue: The sum of the total price of all pizza orders.
-- Total Pizza Sold: The sum of the quantities of all pizzas sold.
-- Total Order: The total number of orders placed.
-- Average Order Value: The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
-- AVG Pizzas Per Order: The average number of pizzas sold per order, is calculated by dividing the total number of pizzas sold by the total number of orders.
+- **Total Revenue**: The sum of the total price of all pizza orders.
+- **Total Pizza Sold**: The sum of the quantities of all pizzas sold.
+- **Total Order**: The total number of orders placed.
+- **AVG Order Value**: The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
+- **AVG Pizzas Per Order**: The average number of pizzas sold per order, is calculated by dividing the total number of pizzas sold by the total number of orders.
 
 
 ### Data Analysis
